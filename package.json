@@ -1,0 +1,19 @@
+{
+  "name": "challenge09",
+  "version": "1.0.0",
+  "description": "# 09 Node.js Challenge: Professional README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscamposmg/challenge09.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscamposmg/challenge09/issues"
+  },
+  "homepage": "https://github.com/mscamposmg/challenge09#readme"
+}
